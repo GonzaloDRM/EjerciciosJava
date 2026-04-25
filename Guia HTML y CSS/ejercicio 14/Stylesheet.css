@@ -1,0 +1,15 @@
+
+table {
+    border: none;
+    border-bottom: solid 1px;
+    width: 800px;
+}
+
+td {
+    border-bottom: solid 1px;
+    
+}
+
+.centrar {
+    text-align: center;
+}

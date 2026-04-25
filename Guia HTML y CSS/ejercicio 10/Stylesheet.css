@@ -1,0 +1,67 @@
+* {
+    margin-top: 3px;
+    background-color: gray;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+.pri {
+    color: red;
+}
+
+.sec {
+    color: orange;
+}
+
+table {
+    border: 2px;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+u {
+    color: red;
+}
+
+.tre {
+    color: blue;
+}
+
+.cua {
+    color: purple;
+}
+
+.ulttext {
+    color: gold;
+    line-height: 30px;
+}
+
+.penul {
+    color: salmon;
+}
+
+.ult {
+    color: green;
+}
+
+tr:first-child {
+    color: gold;
+}
+
+.medio {
+    color: green;
+}
+
+.rojo {
+    color: red;
+}
+
+.oro {
+    color: gold;
+}

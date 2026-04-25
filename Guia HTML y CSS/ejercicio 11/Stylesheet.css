@@ -1,0 +1,41 @@
+*{
+    background-color: grey;
+}
+
+table, th, td {
+    border: solid 1px black;
+    border-collapse: collapse;
+    padding: 5px;
+    
+}
+
+.cajaspintadas {
+    background-color: rgb(255, 209, 209);
+}
+
+th {
+    background-color: rgb(224, 224, 255);
+}
+
+.cambio {
+    background-color: darkkhaki;
+}
+
+.imagen1 {
+    width: 15px;
+    margin-left: -4px;
+}
+
+.imagen2 {
+    width: 15px;
+    margin-left: -13px;
+}
+
+.imagen3 {
+    width: 15px;
+}
+
+.imagen4 {
+    width: 15px;
+    margin-left: -18px;
+}

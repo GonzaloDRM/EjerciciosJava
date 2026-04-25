@@ -1,0 +1,37 @@
+.Container {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    column-gap: 100px;
+    padding: 20px;
+    width: 100%;
+    
+    
+}
+
+.imagen {
+    display: grid;
+    width: 250px;
+    height: 400px;
+    background-image: url("https://www.cuerpomente.com/medio/2020/12/17/planta-de-interior_84f7064a_1200x1200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.caja {
+    display: grid;
+    text-align: center;
+    width: 300px;
+    height: 250px;
+    background-color: lightgray;
+    place-items: center;
+    margin: 80px;
+}
+
+p {
+    font-size: 10px;
+}
+
+button {
+    width: 90%;
+}
